@@ -12,7 +12,8 @@ const HomeLayout = () => {
     return (
         <div className='font-poppins'>
             <header>
-                <Header></Header>
+                <Header> 
+                </Header>
                 <section>
                    <LatestNews></LatestNews>
                 </section>
